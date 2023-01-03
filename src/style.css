@@ -1,6 +1,10 @@
 body {
     font-family: "Poppins", sans-serif;
 }
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+}
 header {
     color: white;
     margin: 0 auto;
@@ -255,6 +259,22 @@ footer a {
 
     section {
         padding: 30px;
+    }
+    footer p {
+        font-size: 14px;
+    }
+    .email {
+        font-size: 8px;
+        padding: 0;
+        margin: 0;
+        text-align: center;
+    }
+    main h3 {
+        font-size: 30px;
+    }
+    main p {
+        font-size: 14px;
+        margin: 0;
     }
 }
 
